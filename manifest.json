@@ -1,0 +1,25 @@
+{
+  " short_name " : " DIO PWA " ,
+  " nome " : " Covid 19 DIO PWA " ,
+  " ícones " : [
+    {
+      " src " : " favicon.ico " ,
+      " tamanhos " : " 64x64 32x32 24x24 16x16 " ,
+      " tipo " : " imagem / ícone x "
+    },
+    {
+      " src " : " logo192.png " ,
+      " tipo " : " imagem / png " ,
+      " tamanhos " : " 192x192 "
+    },
+    {
+      " src " : " logo512.png " ,
+      " tipo " : " imagem / png " ,
+      " tamanhos " : " 512x512 "
+    }
+  ],
+  " start_url " : " . " ,
+  " display " : " autônomo " ,
+  " theme_color " : " # 000000 " ,
+  " background_color " : " #ffffff "
+}
